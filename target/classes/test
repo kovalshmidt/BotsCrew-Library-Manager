@@ -1,0 +1,6 @@
+insert into books(name, author) values('Sherlock Holmes', 'Arthur Conan Doyle');
+# insert into books(name, author) values('Harry Potter', 'JK Rowling');
+# insert into books(name, author) values('Dorian Grey', 'Oscar Wilde');
+# select * from books;
+# update books set name='Steve' where id = 2;
+# delete from books where id = 2;
